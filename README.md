@@ -1,6 +1,6 @@
 <p align="center">
   <br />
-  <img src="./avatar.gif">
+  <img src="https://github.com/nocategory/nocategory/blob/master/avatar.gif">
 </p>
 
 <!--
