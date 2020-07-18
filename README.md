@@ -6,5 +6,6 @@
   <br />
   <br />
   I'm a junior developer based in Portugal. You'll usually see me working/contributing in web-related projects of all sorts, especially nowadays ones to do with React/Node.js since that's been my sort of focus<br /><br />
-<b>If you're interested, check out my portfolio at https://nocategory.dev</b>
+<b>If you're interested, check out my portfolio at https://jsalgmev2-or56kc6ry.now.sh</b>
+  <p>(new one coming soon-ish)</p>
 </p>
