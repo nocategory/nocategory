@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nocategory/nocategory/blob/master/avatar.gif" />
+  <img src="./avatar.jpg" height="200px" />
   <br />
   <span>howdy mates!</span>
   <br />
