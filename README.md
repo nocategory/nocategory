@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="./avatar.png" height="256px" />
   <br />
   <span>howdy mates!</span>
   <br />
